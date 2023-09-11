@@ -1,0 +1,20 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: rgba(107, 43, 226, 0.712);
+}
+.logo{
+    align-items: center;
+    background-color: rgba(0, 140, 255, 0.705);
+
+}
+h1{
+    color: white;
+    background-color: rgba(0, 140, 255, 0.705);
+    text-align: center;
+}
+p{
+    color: white;
+    background-color: rgba(0, 140, 255, 0.705);
+    text-align: center;
+}
